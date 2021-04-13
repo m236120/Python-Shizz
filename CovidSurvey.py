@@ -1,3 +1,6 @@
+#Simple program to help fill out the morning survey.
+#Will be useless soon, but could be good proof-of-concept.
+
 import time
 import random
 from pynput.keyboard import Key, Controller
